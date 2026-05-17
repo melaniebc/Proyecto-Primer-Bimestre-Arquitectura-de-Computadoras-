@@ -38,8 +38,6 @@ Para compilar y ejecutar este proyecto localmente, necesitas un compilador de C 
    ```bash
    .\programa.exe
 
-Bash
-.\programa.exe
 ## 👥 Autores
 Buenaño Melanie
 Cabezas Stefano
