@@ -31,13 +31,19 @@ Para compilar y ejecutar este proyecto localmente, necesitas un compilador de C 
 1. Asegúrate de entrar a la carpeta interna del proyecto:
    ```bash
    cd ProyectoArqui
-Compila todos los módulos juntos si realizas cambios:
-
-Bash
-gcc main.c menus.c conversiones.c complemento_dos.c avanzado.c validaciones.c -o programa
-Ejecuta el archivo generado usando el formato de PowerShell:
+2. Compila todos los módulos juntos si realizas cambios:
+   ```bash
+   gcc main.c menus.c conversiones.c complemento_dos.c avanzado.c validaciones.c -o programa
+3. Ejecuta el archivo generado usando el formato de PowerShell:
+   ```bash
+   .\programa.exe
 
 Bash
 .\programa.exe
-👥 Autores
-Melanie Buenaño - @melaniebc
+## 👥 Autores
+Buenaño Melanie
+Cabezas Stefano
+Castillo Zander
+Guerrón Viviana 
+
+
