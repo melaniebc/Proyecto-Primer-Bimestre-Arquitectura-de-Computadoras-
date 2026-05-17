@@ -40,8 +40,14 @@ Para compilar y ejecutar este proyecto localmente, necesitas un compilador de C 
 
 ## 👥 Autores
 Buenaño Melanie
+
+
 Cabezas Stefano
+
+
 Castillo Zander
+
+
 Guerrón Viviana 
 
 
